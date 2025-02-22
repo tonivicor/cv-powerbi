@@ -14,7 +14,7 @@ Este repositorio contiene mi currículum creado con **Microsoft Power BI**. He u
 5. Navega por el informe utilizando los botones y marcadores agregados.  
 
 ## 📜 Licencia  
-Este proyecto se distribuye bajo la **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)**, lo que significa que puedes utilizarlo libremente sin necesidad de atribución.  
+Este proyecto se distribuye bajo la **[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)**, lo que significa que puedes utilizarlo libremente sin necesidad de atribución.  
 
 ## 📬 Contacto  
 Si tienes alguna pregunta o sugerencia, puedes contactarme en:  
@@ -41,12 +41,13 @@ This repository contains my resume created with **Microsoft Power BI**. I have u
 5. Navigate through the report using the added buttons and bookmarks.  
 
 ## 📜 License  
-This project is distributed under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)** license, meaning you can use it freely without attribution.  
+This project is distributed under the **[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)**, meaning you can freely use, modify, and distribute it, provided that any modifications or derivative works are also distributed under the same license. This includes making the source code available if you run the software over a network.
 
 ## 📬 Contact  
 If you have any questions or suggestions, feel free to contact me:  
 📧 Email: [vicente.ortega.antonio@gmail.com](mailto:vicente.ortega.antonio@gmail.com)  
 🔗 LinkedIn: [Antonio Vicente Ortega](https://www.linkedin.com/in/antonio-vicente-ortega/)  
+
 
 
 
@@ -69,7 +70,7 @@ Ce dépôt contient mon CV créé avec **Microsoft Power BI**. J'ai utilisé cet
 5. Naviguez dans le rapport à l'aide des boutons et des signets ajoutés.  
 
 ## 📜 Licence  
-Ce projet est distribué sous la licence **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)**, ce qui signifie que vous pouvez l'utiliser librement sans attribution.  
+Ce projet est distribué sous la licence **[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)**, ce qui signifie que vous pouvez l'utiliser librement sans attribution.  
 
 ## 📬 Contact  
 Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter :  
