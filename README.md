@@ -1,3 +1,4 @@
+# 📄 CV en Power BI  
 Este repositorio contiene mi currículum creado con **Microsoft Power BI**. He utilizado esta herramienta para presentar mi experiencia, habilidades y formación de manera interactiva y visual.  
 
 ## 📌 Contenido  
@@ -20,6 +21,8 @@ Si tienes alguna pregunta o sugerencia, puedes contactarme en:
 📧 Email: [vicente.ortega.antonio@gmail.com](mailto:vicente.ortega.antonio@gmail.com)  
 🔗 LinkedIn: [Antonio Vicente Ortega](https://www.linkedin.com/in/antonio-vicente-ortega/)  
 
+
+ 
 
 # 📄 My Resume in Power BI  
 
@@ -44,6 +47,9 @@ This project is distributed under the **[Creative Commons Zero v1.0 Universal (C
 If you have any questions or suggestions, feel free to contact me:  
 📧 Email: [vicente.ortega.antonio@gmail.com](mailto:vicente.ortega.antonio@gmail.com)  
 🔗 LinkedIn: [Antonio Vicente Ortega](https://www.linkedin.com/in/antonio-vicente-ortega/)  
+
+
+
 
 
 # 📄 Mon CV dans Power BI  
